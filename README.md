@@ -1,6 +1,6 @@
 - 👋 Hi, I'm @JosdanWM
 - 👀 I'm interested in learning programming languages.
-- 🌱 I'm currently learning programming basics, Markdown and prompt engineering.
+- 🌱 I'm currently learning programming basics, markdown and prompt engineering.
 - 💞️ I'm looking to collaborate on ...
 - 📫 How to contact me 
 - 😄 Pronouns: ...
