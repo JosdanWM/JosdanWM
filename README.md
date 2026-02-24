@@ -1,11 +1,22 @@
-## Hola 👋, Soy Josdan W. M.
+## 🔰Hola 👋, Soy Josdan W. M.
   🕸️ Soy un apasionado aprendiz de las Ciencias de la Computación.
   
-## Habilidades
-  - Matemáticas
-  - Metaaprendizaje
-  - Prompt Engineering
-  -  
+## ♻️Habilidades
+  〽️ Matemáticas
+  〽️ Metaaprendizaje
+  〽️Prompt Engineering
+  〽️
+  〽️
+  〽️
+  〽️
+  〽️
+  〽️
+  〽️
+  〽️
+  〽️
+  〽️
+  
+   
 <!--
 **JosdanWM/JosdanWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
