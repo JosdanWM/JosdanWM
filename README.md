@@ -1,22 +1,43 @@
 ## 🔰Hola 👋, Soy Josdan W. M.
-  🕸️ Soy un apasionado aprendiz de las Ciencias de la Computación.
+---
+  🕸️ Soy un neófito y apasionado aprendiz de las Ciencias de la Computación. Este repositorio personal es el espacio virtual donde documento mi formación autodidacta en **programación, ciencias de datos, inteligencia artificial, IoT, ciberseguridad y hacking ético**. Este repositorio funciona como **bitácora técnica de aprendizaje**, colección de **proyectos**, **Temario y notas de estudio** y **ejercicios prácticos**.
+
+---
   
-## ♻️Habilidades
-  〽️ Matemáticas
-  〽️ Metaaprendizaje
-  〽️Prompt Engineering
-  〽️
-  〽️
-  〽️
-  〽️
-  〽️
-  〽️
-  〽️
-  〽️
-  〽️
-  〽️
+## **♻️Habilidades Básicas**
+- 〽️ Matemáticas
+  - Aritmética
+  - Álgebra
+  - Geometría
+  - Trigonometría
+  - Razonamiento matemático
+- 〽️ Metaaprendizaje
+  - Técnicas de Lectura
+  - Técnicas de comprensión lectora
+  - Técnicas de repaso y memorización
+- 〽️ Prompt Engineering
+- 〽️
+- 〽️
+- 〽️
+- 〽️
+- 〽️
+
+## **♻️Habilidades Tecnológicas Básicas (tools)**
+- 〽️
+- 〽️
+- 〽️
+- 〽️
+- 〽️
+
   
-   
+## **♻️Habilidades y Stack tecnológico**
+- 〽️
+- 〽️
+- 〽️
+- 〽️
+- 〽️
+
+
 <!--
 **JosdanWM/JosdanWM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
