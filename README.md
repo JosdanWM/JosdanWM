@@ -30,7 +30,7 @@
 - 〽️
 
   
-## **♻️Habilidades y Stack tecnológico**
+## **♻️Habilidades y Stack Tecnológico**
 - 〽️
 - 〽️
 - 〽️
